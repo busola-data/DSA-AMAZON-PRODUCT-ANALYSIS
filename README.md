@@ -27,32 +27,7 @@ guide product improvement, marketing strategies, and customer engagement.
 - What is the average discount percentage by product category?
 
 
-   Average Discount By Product Category (QUESTION 1)	
-Product Category	Average of discount_percentage
-Car&Motorbike	0.42
-Computers&Accessories	0.540242826
-Electronics	0.508288973
-Health&PersonalCare	0.53
-Home&Kitchen	0.401205357
-HomeImprovement	0.575
-MusicalInstruments	0.46
-OfficeProducts	0.123548387
-Toys&Games	0
-Grand Total	0.476914676
-<img width="561" height="373" alt="image" src="https://github.com/user-attachments/assets/2e9e805c-fdd5-4719-8bd3-ab150b2f0009" />
 
 
-Product Category	Average of discount_percentage	
-Car&Motorbike	0.42	
-Computers&Accessories	0.540242826	
-Electronics	0.508288973	
-Health&PersonalCare	0.53	
-Home&Kitchen	0.401205357	
-HomeImprovement	0.575	
-MusicalInstruments	0.46	
-OfficeProducts	0.123548387	
-Toys&Games	0	
-Grand Total	0.476914676	
-<img width="809" height="342" alt="image" src="https://github.com/user-attachments/assets/5de109bc-0d36-4af2-9cfa-080578d22098" />
 
   
